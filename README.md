@@ -1,6 +1,6 @@
-# Web site of the Uppsala University Information Laboratory
+# Web site of MIDA
 
-This repository is used to generate the [Web site of the UU-InfoLab](https://uuinfolab.github.io). It is based on [Jekyll](http://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll
+This repository is used to generate the [Web site of MIDA](https://mida-group.github.io/). It is based on [Jekyll](http://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll
 theme.
 
 More details about the theme are available from the
