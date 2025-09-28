@@ -179,7 +179,7 @@
   min-height: $nav-height;
   background: $background-color;
 
-  a {
+  a, a:visited {
     display: block;
     margin: 0 1rem;
     color: $masthead-link-color;
@@ -537,7 +537,7 @@
     font-size: $type-size-7;
   }
 
-  a {
+  a, a:visited {
     display: block;
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
