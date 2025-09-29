@@ -11,24 +11,27 @@ toc: true
 At the Infolab we do research on all aspects of social data science: we define mathematical *models* to represent contemporary social data, so that it can be processed by computers, we develop computational analysis *methods*, we implement our models and methods in publicly available *software*, and we *apply* them to perform empirical social data analyses. These applications allow us to test our theoretical advances and provide requirements for new developments.
 
 # Research areas
+{: .page-title}
 
 {% for area in site.data.areas %}
-<article class="research-box">
-<a href="{{ area.url }}" class="research-text research-box">
-     <figure class="no-margins">
-         <div class="research-box">
-             <img src="{{ area.img }}" class="research-img" alt="Feature-rich networks"/>
-         </div>
-     </figure>
+---
+<div class="research-area-entry">
+<a href="{{ area.url }}" class="research-area-box">
+     <div class="research-area-figure">
+          <figure class="no-margins">
+               <img src="{{ area.img }}" class="research-area-img" alt="{{ area.img_alt }}"/>
+          </figure>
+     </div>
      <div class="pull-up">
-         <h2 class="research-text-size text-in-img research-header">{{ area.name }}</h2>
-         <div class="margin-b">
-         {{ area.description }}
-         </div>
+          <h2 class="research-area-text-size text-in-img research-area-header">{{ area.name }}</h2>
      </div>
 </a>
-</article>
+<div class="research-area-text">
+{{ area.description }} <a href="{{ area.url }}">Read more</a>
+</div>
+</div>
 {% endfor %}
+---
                
 
 # Sponsors
