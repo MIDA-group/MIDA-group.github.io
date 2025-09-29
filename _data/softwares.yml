@@ -1,0 +1,13 @@
+# Softwares
+
+- name: "CytoBrowser"
+  url: "https://mida-group.github.io/CytoBrowser/"
+  img: "/assets/images/software/cytobrowser_2.png"
+  img_alt: "Example of cytology image annotations in CytoBrowser"
+  description: "CytoBrowser is an open-source (GPLv3) JavaScript and Node.js driven environment 
+                for fast and accessible collaborative online visualization, assessment, and 
+                annotation of very large microscopy images, including, but not limited to, 
+                z-stacks (focus stacks) of cytology or histology whole slide images. It provides 
+                a web-based viewer for high-resolution zoomable images and facilitates easy 
+                remote collaboration, with options for joint-view visualization and simultaneous 
+                collaborative annotation of very large datasets. "
