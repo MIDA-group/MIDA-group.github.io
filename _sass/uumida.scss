@@ -121,10 +121,11 @@ border-radius: 3px;
     margin-bottom: 20px;
 }
 
-
-research-link {
-    margin: 30px;
-    padding: 30px;
+.research-page-text {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
 }
 
 
@@ -140,6 +141,10 @@ box-around {
     overflow: hidden;
 }
 
+.page-title {
+    clear: both;
+    width: 100%;
+}
 
 a, a:visited {
     text-decoration: none;

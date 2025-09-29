@@ -1,5 +1,18 @@
 # Research areas
 
+- name: "Cancer tumor microenvironment analysis"
+  url: "/research/tmeanalysis"
+  img: "/assets/images/research/cancer_cell_graph.png"
+  img_alt: "Composite image of a multispectral histology sample and an overlaid cell graph"
+  description: "Immunotherapy has become a life-saving option for advanced cancer patients. 
+                However, only a minority of patients develop a durable response. Despite great 
+                efforts to explain the variable responses to immunotherapy and to optimize 
+                patient selection, current diagnostic tools cannot sufficiently guide clinical 
+                practice. This project combines state-of-the-art multiplexed immunofluorescence 
+                microscopy with the latest techniques in image processing and deep learning to 
+                advance the understanding of how cell interrelations in the tumor microenvironment 
+                affect the disease progression and treatment efficacy. "
+
 - name: "Social network analysis"
   url: "/research/networks"
   img: "/assets/images/twnet.png"
