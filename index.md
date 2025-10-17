@@ -11,8 +11,14 @@ excerpt: "Dept. of Information Technology <br/>Ångströmlaboratoriet"
 
 # About us
 
-The MIDA group focuses on development of general methods for image data analysis. Our aim is to devise generally applicable methods, which work well independent of the particular application and types of images used. We therefore strive for robust methods which are performing well under varying conditions. 
-Also aiming for practically useful methods, we essentially always collaborate with other groups towards solving real world problems, most often in the directions of healthcare and life science applications. 
+The MIDA (Methods for Image Data Analysis) group aims to advance the field of image analysis through the development of robust, generalizable, and interpretable computational methods. Our research spans a wide spectrum of image types and application domains, with a strong emphasis on creating tools that are both scientifically rigorous and practically useful.
+
+We are currently focused on developing AI-driven methods for multimodal biomedical image analysis, with particular attention to interpretability and clinical relevance. Our goal is to contribute to the advancement of digital pathology and to support precision medicine by enabling accurate, transparent, and actionable insights from complex imaging data.
+
+Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond.
+
+<img width="740" height="198" alt="image" src="https://github.com/user-attachments/assets/baf89e48-cd29-408a-afcc-61a4d0f7f9e4" />
+ 
 
 # Contact
 
