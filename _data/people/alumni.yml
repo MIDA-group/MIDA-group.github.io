@@ -5,14 +5,32 @@
   link_text: 
   url: ""
 
+- year: 2023-2025
+  name: Love Nordling
+  role: PhD student
+  link_text: 
+  url: ""
+
 - year: 2019-2024
   name: Nadezhda Koriakina
   role: PhD student
   link_text: "Deep Learning and Explainable Artificial Intelligence for Biomedical Applications: Methods for Cytology-based Cancer Detection"
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-537511"
   
-- year: 2021-2024
-  name: Marc Fraile, https://marcfraile.github.io/ Center for Statistical Genetics in the University of Michigan 
+- year: 2020-2024
+  name: Marc Fraile
   role: PhD student
   link_text: Computer Vision and Explainability in Human-Human and Human-Robot Interaction
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-539584"
+
+- year: 2017-2022
+  name: Johan Öfverstedt
+  role: Researcher 
+  link_text: 
+  url: ""
+
+- year: 2017-2022
+  name: Johan Öfverstedt
+  role: PhD student
+  link_text: Methods for Reliable Image Registration: Algorithms, Distance Measures, and Representations
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-463393"
