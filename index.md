@@ -15,7 +15,7 @@ The MIDA (Methods for Image Data Analysis) group aims to advance the field of im
 
 We are currently focused on developing AI-driven methods for biomedical image analysis, with particular attention to interpretability and clinical relevance. Our goal is to contribute to the advancement of digital pathology and to support precision medicine by enabling accurate, transparent, and actionable insights from complex imaging data.
 
-Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond.
+
 
 
  <br/>
