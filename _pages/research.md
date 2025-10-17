@@ -8,7 +8,10 @@ header:
 toc: true
 ---
 
-At the Infolab we do research on all aspects of social data science: we define mathematical *models* to represent contemporary social data, so that it can be processed by computers, we develop computational analysis *methods*, we implement our models and methods in publicly available *software*, and we *apply* them to perform empirical social data analyses. These applications allow us to test our theoretical advances and provide requirements for new developments.
+Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond. Our research is currently focused on developing AI-based methods for 
+
+- early detection of oral cancer from cytology data
+- immuno-therapy response prediction for lung cancer from histology data. 
 
 # Research areas
 {: .page-title}
@@ -34,9 +37,9 @@ At the Infolab we do research on all aspects of social data science: we define m
 ---
                
 
-# Sponsors
+# Funding
 
-The Infolab is or has been funded by the following projects:
+Our research is supported by:
 
 {% for projlist in site.data.projects %}
 ### {{ projlist.scope }}
