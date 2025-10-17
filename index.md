@@ -6,7 +6,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.4"
     overlay_image: /assets/images/banner_small.jpg
-excerpt: "Dept. of Information Technology <br/>Ångströmlaboratoriet"
+excerpt: "Department of Information Technology <br/>Ångströmlaboratoriet"
 ---
 
 # About us
