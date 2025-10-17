@@ -8,9 +8,11 @@ header:
 toc: true
 ---
 
-Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond. Our research is currently focused on developing AI-based methods for 
+Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond.
 
-- early detection of oral cancer from cytology data
+Our research is currently focused on developing AI-based methods for 
+
+- early detection of oral cancer from cytology data, and 
 - immuno-therapy response prediction for lung cancer from histology data. 
 
 # Research areas
@@ -54,4 +56,4 @@ In short: *{{ proj.description }}*<br/>
 {% endfor %}
 
 
-We also thank Uppsala University for providing funding to create the International Master's programme in Data Science (started in the Fall 2020) and our interdisciplinary introductory course on computational social science (first taught in the Spring 2022), and the Division of Computing Science at the Department of Information Technology for continuous support.
+
