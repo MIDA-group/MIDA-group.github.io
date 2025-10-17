@@ -14,7 +14,7 @@
 - year: 2024-2025
   name: Olle Edgren Schüllerqvist  
   role: Master student
-  link_text: Human-in-the-Loop Deep Learning for Oral Cancer Screening: An Active Learning Approach 
+  link_text: "Human-in-the-Loop Deep Learning for Oral Cancer Screening: An Active Learning Approach" 
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-561306"
 
 - year: 2024-2025
@@ -50,7 +50,7 @@
 - year: 2023-2024
   name: Jens Baumann
   role: Master student
-  link_text: AI-based Analysis of Multiplex Microscopy Images of Cancer Tissue for Immunotherapy Response Prediction: Cell-Graph-Based Lung Cancer Survival Prediction
+  link_text: "AI-based Analysis of Multiplex Microscopy Images of Cancer Tissue for Immunotherapy Response Prediction: Cell-Graph-Based Lung Cancer Survival Prediction"
   url: ""  
 
 - year: 2023-2024
@@ -68,5 +68,5 @@
 - year: 2017-2022
   name: Johan Öfverstedt
   role: PhD student
-  link_text: Methods for Reliable Image Registration: Algorithms, Distance Measures, and Representations
+  link_text: "Methods for Reliable Image Registration: Algorithms, Distance Measures, and Representations"
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-463393"
