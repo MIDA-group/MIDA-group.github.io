@@ -17,7 +17,7 @@ We are currently focused on developing AI-driven methods for multimodal biomedic
 
 Through interdisciplinary collaborations, we strive to advance data-driven life science and to bridge the gap between algorithmic innovation and real-world impact in healthcare and beyond.
 
-<img width="740" height="198" alt="image" src="https://github.com/user-attachments/assets/baf89e48-cd29-408a-afcc-61a4d0f7f9e4" />
+
  
 
 # Contact
