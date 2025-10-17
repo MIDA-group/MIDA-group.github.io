@@ -41,10 +41,12 @@ figcaption.profile {
 
 img.profilepic {
     width: 100%;
+    height:220px; 
+    object-fit: cover;
 }
 
 div.stop {
-clear: both;
+    clear: both;
 }
 
 .research-area-box {
