@@ -1,8 +1,19 @@
-# People
+# People  
+- name: "Nataša Sladoje"
+  pic: "/assets/images/people/natasa.jpg"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N3-85"
+  title: "Professor, Group leader" 
+
+- name: "Joakim Lindblad"
+  pic: "/assets/images/people/joakim.jpg"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N5-1054"
+  title: "Professor, Group co-leader" 
+
 - name: "Olle Edgren Schüllerqvist"
   pic: "/assets/images/people/olle.jpg"
-  url: "https://katalog.uu.se/profile/?id=N23-844"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N23-844"
   title: "PhD Student"
+  
 # Fill in more people
 - name: "Insert name"
   pic: "/assets/images/people/example.jpg"
