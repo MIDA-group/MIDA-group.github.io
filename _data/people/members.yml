@@ -9,10 +9,25 @@
   url: "https://www.uu.se/en/contact-and-organisation/staff?query=N5-1054"
   title: "Professor, Group co-leader" 
 
+- name: "Swarnadip Chatterjee"
+  pic: "/assets/images/people/swarnadip.jpg"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N21-1773"
+  title: "PhD Student"
+
+- name: "Marco Acerbis"
+  pic: "/assets/images/people/marco.jpg"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N24-1948"
+  title: "PhD Student"  
+
 - name: "Olle Edgren Schüllerqvist"
   pic: "/assets/images/people/olle.jpg"
   url: "https://www.uu.se/en/contact-and-organisation/staff?query=N23-844"
   title: "PhD Student"
+
+- name: "Nitigya Sambyal"
+  pic: "/assets/images/people/nitigya.jpg"
+  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N23-2654"
+  title: "PhD Student" 
   
 # Fill in more people
 - name: "Insert name"
