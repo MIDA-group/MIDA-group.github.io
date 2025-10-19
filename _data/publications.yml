@@ -49,9 +49,12 @@
       arxiv: 2407.01869
       code: github.com/MIDA-group/LetItShine
 
+- year: 2024
+  publications:
+
     - title: "Cross-modality sub-image retrieval using contrastive multimodal image representations"
       type: "article"
-      author: "E. Breznik, <b>E. Wetzer</b>, <b>J. Lindblad</b>, and <b>N. Sladoje</b>"
+      author: "E. Breznik, <b>E. Wetzer</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
       journal: "Scientific Reports"
       volume: 14
       number: 18798
@@ -59,3 +62,15 @@
       doi: 10.1038/s41598-024-68800-1
       arxiv: 2201.03597
       code: github.com/MIDA-group/CrossModal_ImgRetrieval
+
+    - title: "Deep multiple instance learning versus conventional deep single instance learning for interpretable oral cancer detection"
+      type: "article"
+      author: "<b>N. Koriakina</b>, <b>N. Sladoje</b>, V. Bašić, <b>J. Lindblad</b>"
+      journal: "PLoS ONE"
+      volume: 19
+      number: 4
+      year: "e0302169, 2024"
+      doi: 10.1371/journal.pone.0302169
+      arxiv: 2202.01783
+      code: github.com/MIDA-group/OralCancerMILvsSIL
+      data: doi.org/10.5281/zenodo.7020311
