@@ -17,7 +17,7 @@
 
     - title: "A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology"
       type: "inproceedings"
-      author: "**M. Acerbis**, **N. Sladoje**, **J. Lindblad**"
+      author: "<b>M. Acerbis</b>, <b>N. Sladoje</b>, <b>J. Lindblad</b>"
       booktitle: "Scandinavian Conference on Image Analysis (SCIA), Lecture Notes in Computer Science (LNCS)"
       volume: 15726
       number:
@@ -29,7 +29,7 @@
 
     - title: "Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning"
       type: "inproceedings"
-      author: "**W. Lian**, **J. Lindblad**, P. Micke, **N. Sladoje**"
+      author: "<b>W. Lian</b>, <b>J. Lindblad</b>, P. Micke, <b>N. Sladoje</b>"
       booktitle: "British Machine Vision Conference (BMVC)"
       volume: 
       number:
@@ -41,11 +41,22 @@
 
     - title: "Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection"
       type: "article"
-      author: "**W. Lian**, **J. Lindblad**, C. Runow Stark, J-M. Hirsch, **N. Sladoje**"
+      author: "<b>W. Lian</b>, <b>J. Lindblad</b>, C. Runow Stark, J-M. Hirsch, <b>N. Sladoje</b>"
       journal: "Computers in Biology and Medicine"
       volume: 185 
       number: 109498
       year: 2025
       doi: 10.1016/j.compbiomed.2024.109498
       arxiv: 2407.01869
-      code: https://github.com/MIDA-group/LetItShine
+      code: github.com/MIDA-group/LetItShine
+
+    - title: "Cross-modality sub-image retrieval using contrastive multimodal image representations"
+      type: "article"
+      author: "E. Breznik, <b>E. Wetzer</b>, <b>J. Lindblad</b>, and <b>N. Sladoje</b>"
+      journal: "Scientific Reports"
+      volume: 14
+      number: 18798
+      year: 2024
+      doi: 10.1038/s41598-024-68800-1
+      arxiv: 2201.03597
+      code: github.com/MIDA-group/CrossModal_ImgRetrieval
