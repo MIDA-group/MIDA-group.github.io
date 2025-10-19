@@ -20,7 +20,9 @@ Here we only list publications related to the activities of the lab. For other p
 {% elsif pub.type == "in-proceedings" %}In: {{ pub.conference }}, {{ pub.year }}
 {% elsif pub.type == "chapter" %}Chapter in: {{ pub.book }}, {{ pub.year }}
 {% elsif pub.type == "thesis" %}{{ pub.description }}, {{ pub.year }}
-{% endif %}{% if pub.doi != nil %} (<a href="{{ pub.doi }}">doi</a>){% endif %}{% if pub.pdf != nil %} (<a href="{{ pub.pdf }}">pdf</a>){% endif %}{% if pub.material != nil %} (<a href="{{ pub.material }}">material</a>){% endif %}
+{% endif %}{% if pub.doi != nil %} doi: <a href="https://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>{% endif %}{% if pub.pdf != nil %} (<a href="{{ pub.pdf }}">pdf</a>){% endif %}
+{% if pub.arxiv != nil %} arXiv preprint: <a href="https://doi.org/10.48550/{{ pub.arxiv }}">{{ pub.arxiv }}</a>{% endif %}
+{% if pub.code != nil %} <b><font color=DarkOrange>Code</font></b> available at <a href="{{ pub.code }}">{{ pub.code }}</a>{% endif %}
 {% endfor %}
 
 {% endfor %}
