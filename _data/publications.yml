@@ -42,7 +42,7 @@
       type: "article"
       author: "<b>W. Lian</b>, <b>J. Lindblad</b>, C. Runow Stark, J-M. Hirsch, <b>N. Sladoje</b>"
       journal: "Computers in Biology and Medicine"
-      volume: 185,109498
+      volume: "185, 109498"
       number: 
       year: 2025
       doi: 10.1016/j.compbiomed.2024.109498
@@ -56,7 +56,7 @@
       type: "article"
       author: "E. Breznik, <b>E. Wetzer</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
       journal: "Scientific Reports"
-      volume: 14, 18798
+      volume: "14, 18798"
       number: 
       year: 2024
       doi: 10.1038/s41598-024-68800-1
