@@ -1,15 +1,51 @@
 # Publications
+# More or less bibtex standard
 
 - year: 2025
   publications:
 
     - title: "Learn2Reg 2024: New Benchmark Datasets Driving Progress on New Challenges"
       type: "article"
-      author: "Lasse Hansen, Wiebke Heyer, Christoph Großbröhmer, Frederic Madesta, Thilo Sentker, Wang Jiazheng, Yuxi Zhang, Hang Zhang, Min Liu, Junyi Wang, Xi Zhu, Yuhua Li, Liwen Wang, Daniil Morozov, Nazim Haouchine, Joel Honkamaa, Pekka Marttinen, Yichao Zhou, Zuopeng Tan, Zhuoyuan Wang, Yi Wang, Hongchao Zhou, Shunbo Hu, Yi Zhang, Qian Tao, Lukas Förner, Thomas Wendler, Bailiang Jian, Christian Wachinger, Jin Kim, Dan Ruan, Marek Wodzinski, Henning Müller, Tony C.W. Mok, Xi Jia, Jinming Duan, Mikael Brudfors, Seyed-Ahmad Ahmadi, Yunzheng Zhu, William Hsu, Tina Kapur, William M. Wells, Alexandra Golby, Aaron Carass, Harrison Bai, Yihao Liu, Perrine Paul-Gilloteaux, Joakim Lindblad, Nataša Sladoje, Andreas Walter, Junyu Chen, Reuben Dorent, Alessa Hering, Mattias P. Heinrich"
+      author: "L. Hansen, W. Heyer, et al."
       journal: 
-      volume: Forthcoming
+      volume: 
       number:
       year: 2025
       doi:
       arxiv: 2509.01217
       code:
+
+    - title: "A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology"
+      type: "inproceedings"
+      author: "M. Acerbis, N. Sladoje, J. Lindblad"
+      booktitle: "Scandinavian Conference on Image Analysis (SCIA), Lecture Notes in Computer Science (LNCS)"
+      volume: 15726
+      number:
+      pages: 264-277
+      year: 2025
+      doi: 10.1007/978-3-031-95918-9_19
+      arxiv: 2504.06957
+      code: github.com/MIDA-group/Cell-Detection
+
+    - title: "Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning"
+      type: "inproceedings"
+      author: "W. Lian, J. Lindblad, P. Micke, N. Sladoje"
+      booktitle: "British Machine Vision Conference (BMVC)"
+      volume: 
+      number:
+      year: 2025
+      doi:
+      arxiv: 2503.09826
+      code:
+      note: "Accepted"
+
+    - title: "Let it shine: Autofluorescence of Papanicolaou-stain improves AI-based cytological oral cancer detection"
+      type: "article"
+      author: "W. Lian, J. Lindblad, C. Runow Stark, J-M. Hirsch, N. Sladoje"
+      journal: "Computers in Biology and Medicine"
+      volume: 185 
+      number: 109498
+      year: 2025
+      doi: 10.1016/j.compbiomed.2024.109498
+      arxiv: 2407.01869
+      code: https://github.com/MIDA-group/LetItShine
