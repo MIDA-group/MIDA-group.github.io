@@ -29,8 +29,8 @@
   url: "https://www.uu.se/en/contact-and-organisation/staff?query=N23-2654"
   title: "Postdoctoral fellow" 
   
-# Fill in more people
-- name: "Insert name"
-  pic: "/assets/images/people/example.jpg"
-  url: "https://www.uu.se/kontakt-och-organisation/"
-  title: "Insert title"
+# # Fill in more people
+# - name: "Insert name"
+#   pic: "/assets/images/people/example.jpg"
+#   url: "https://www.uu.se/kontakt-och-organisation/"
+#   title: "Insert title"
