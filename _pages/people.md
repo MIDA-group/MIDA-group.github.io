@@ -24,11 +24,10 @@ header:
 </div>
 
 
-# Associate members[^1]
+# Collaborators
  
-[^1]: Associate members are affiliated with other Departments or Universities, but actively contribute to MIDA, for example as project co-Principal Investigators or as co-supervisors of junior members. 
 
-{% for person in site.data.people.ass_members %}
+{% for person in site.data.people.collaborators %}
 **{{ person.name }}**, {{ person.title }}, {{ person.affiliation }}.
 {% endfor %}
 
