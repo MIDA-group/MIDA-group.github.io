@@ -24,6 +24,8 @@ header:
 </div>
 
 
+<br/>
+
 # Collaborators
  
 
@@ -31,7 +33,7 @@ header:
 **{{ person.name }}**, {{ person.title }}, {{ person.affiliation }}.
 {% endfor %}
 
-
+<br/>
 
 # Alumni
 
