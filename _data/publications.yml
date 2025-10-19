@@ -13,7 +13,6 @@
       year: 2025
       doi:
       arxiv: 2509.01217
-      code:
 
     - title: "A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology"
       type: "inproceedings"
