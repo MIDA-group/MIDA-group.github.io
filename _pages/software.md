@@ -8,7 +8,8 @@ header:
 toc: true
 ---
 
-Intro text
+We strive to release all pieces of software that we create as open sorce on our [GitHub pages](https://github.com/MIDA-group/).
+
 
 # Maintained software
 {: .page-title}
