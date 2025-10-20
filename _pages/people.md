@@ -39,6 +39,6 @@ header:
 
 {% for person in site.data.people.alumni %}
 **{{ person.name }}**, {{ person.role }} ({{ person.year }})<br/>
-{% if person.url != "" %}<a href="{{ person.url }}">*{{ person.link_text }}*</a>
-{% elsif person.link_text != "" %}*{{ person.link_text }}*{% endif %}
+{% if person.url and person.url != "" %}<a href="{{ person.url }}">*{{ person.link_text }}*</a>
+{% elsif person.link_text %}*{{ person.link_text }}*{% endif %}
 {% endfor %}
