@@ -43,7 +43,8 @@ More info about methods/subprojects, publications, data, involved people, etc.
 
 ---
 # Collaborators
-
+Patrick Micke, Professor at the Department of Immunology, Genetics and Pathology, Uppsala University
+Artur Mezheyeuski, PhD, Researcher at the Molecular Oncology Group, Vall d'Hebron Institute of Oncology & Vall d'Hebron Institute of Research, Barcelona, Spain
 
 # Funding
 
