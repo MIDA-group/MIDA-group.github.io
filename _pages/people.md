@@ -26,14 +26,7 @@ header:
 
 <br/>
 
-# Collaborators
- 
 
-{% for person in site.data.people.collaborators %}
-**{{ person.name }}**, {{ person.title }}, {{ person.affiliation }}.
-{% endfor %}
-
-<br/>
 
 # Alumni
 
