@@ -1,6 +1,6 @@
 ---
 layout: infolab-toplevel
-title: Cancer tumor microenvironment analysis
+title: Tumor microenvironment analysis
 permalink: /research/tmeanalysis
 header:
   overlay_image: /assets/images/research/cancer_cell_graph.png
@@ -42,17 +42,20 @@ at the Department of Immunology, Genetics and Pathology (IGP) at Uppsala Univers
 More info about methods/subprojects, publications, data, involved people, etc. 
 
 ---
+# Collaborators
+
 
 # Funding
 
 This research is funded by: 
 
 <ul>
+    <li><a href="https://www.scilifelab.se/data-driven/ddls-research-school/"> SciLifeLab & KAW Foundation - DDLS Research School</a>.</li>
     <li><a href="https://www.vr.se/english.html">Swedish Research Council</a> Project number 2022-03580,</li>
     <li><a href="https://www.cancerfonden.se/forskning/projekt/63c5614b9d28740004098007">Cancerfonden (Swedish Cancer Society) Project number 22 2357 Pj</a>,</li>
     <li><a href="https://medtech4health.se/aida/">AIDA</a> (VINNOVA's MedTech4Health project 2017-02447),</li>
     <li><a href="https://www.essenceofescience.se/w/es/en/education">eSSENCE graduate school</a>.</li>
 </ul>
 
-
+# Publications
 
