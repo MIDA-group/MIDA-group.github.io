@@ -39,21 +39,6 @@ Our research is currently focused on developing AI-based methods for
 ---
                
 
-# Funding
-
-Our research is supported by:
-
-{% for projlist in site.data.projects %}
-### {{ projlist.scope }}
-
-{% for proj in projlist.projects %}
-**{{ proj.title }}**<br/>
-Funding from: {{ proj.funder }}<br/>
-Period: {{ proj.years }}<br/>
-In short: *{{ proj.description }}*<br/>
-{% endfor %}
-
-{% endfor %}
 
 
 
