@@ -1,6 +1,6 @@
 # Research areas
 
-- name: "Cancer tumor microenvironment analysis"
+- name: "Tumor microenvironment analysis"
   url: "/research/tmeanalysis"
   img: "/assets/images/research/cancer_cell_graph.png"
   img_alt: "Composite image of a multispectral histology sample and an overlaid cell graph"
