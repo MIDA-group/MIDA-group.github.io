@@ -15,7 +15,7 @@ Our research is currently focused on developing AI-based methods for
 - early detection of oral cancer from cytology data, and 
 - immuno-therapy response prediction for lung cancer from histology data. 
 
-# Research areas
+# Research projects
 {: .page-title}
 
 {% for area in site.data.areas %}
