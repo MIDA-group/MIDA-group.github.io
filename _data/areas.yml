@@ -12,3 +12,7 @@
                 microscopy with the latest techniques in image processing and deep learning to 
                 advance the understanding of how cell interrelations in the tumor microenvironment 
                 affect the disease progression and treatment efficacy. "
+
+- name: "Weakly-Supervised, Self-Supervised, and Meta-Learning for Digital Cytology"
+  url: "/research/digital_cytology"
+  description: ""
