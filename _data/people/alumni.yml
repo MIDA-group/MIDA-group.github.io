@@ -58,6 +58,12 @@
   role: Master student
   link_text: Multimodal image registration by end-to-end CoMIR representation learning
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-545804" 
+
+- year: 2017-2023
+  name: Elisabeth Wetzer
+  role: PhD student
+  link_text: "Representation Learning and Information Fusion: Applications in Biomedical Image Processing"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-500386"
   
 - year: 2017-2023
   name: Johan Öfverstedt
