@@ -53,20 +53,69 @@
   link_text: "AI-based Analysis of Multiplex Microscopy Images of Cancer Tissue for Immunotherapy Response Prediction: Cell-Graph-Based Lung Cancer Survival Prediction"
   url: ""  
 
-- year: 2023-2024
+- year: 2024
   name: Linus Falk
   role: Master student
   link_text: Multimodal image registration by end-to-end CoMIR representation learning
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-545804" 
+  
+- year: 2024
+  name: Elias Ekstedt 
+  role: Master student
+  link_text: "Evaluation of State-of-the-Art Concept-Based Explainable Artificial Intelligence Methods in Extraction of Meaningful Information from Oral Cancer Data"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-536923"
 
 - year: 2017-2023
   name: Elisabeth Wetzer
   role: PhD student
   link_text: "Representation Learning and Information Fusion: Applications in Biomedical Image Processing"
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-500386"
+
+- year: 2023
+  name: Roman Denkin
+  role: Master student
+  link_text: "Prediction of the gain in classification performance from combining multiple imaging modalities"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-508335" 
   
 - year: 2017-2023
   name: Johan Öfverstedt
   role: Master student, PhD student, Researcher
   link_text: "Methods for Reliable Image Registration: Algorithms, Distance Measures, and Representations"
   url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-463393"
+
+- year: 2019-2021 
+  name: Jiahao Lu
+  role: Master student, Guest researcher
+  link_text: "Evaluation of Learning-based Methods for Multimodal Biomedical Image Registration"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-455890"
+
+- year: 2019
+  name: Jo Gay
+  role: Master student
+  link_text: "Structural representation models for multi-modal image registration in biomedical applications"
+  url: "" 
+
+- year: 2015-2019
+  name: Amit Suver 
+  role: PhD student
+  link_text: "Methods for Processing and Analysis of Biomedical TEM Images"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-381800"
+
+- year: 2015-2019
+  name: Teo Asplund 
+  role: PhD student
+  link_text: "Precise Image-Based Measurements through Irregular Sampling"
+  url: "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-395205"
+  
+- year: 2014-2019
+  name: Buda Bajić
+  role: PhD student, Guest researcher
+  link_text: "Methods for image restoration and segmentation by sparsity promoting energy minimization"
+  url: ""
+  
+- year: 2016-2018
+  name: Anindya Gupta
+  role: Guest PhD student
+  link_text: "Classification and Denoising of Objects in TEM and CT Images Using Deep Neural Networks"
+  url: ""
+  
