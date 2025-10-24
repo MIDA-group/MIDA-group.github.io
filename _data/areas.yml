@@ -1,6 +1,6 @@
 # Research areas
 
-- name: "Tumor microenvironment analysis"
+- name: "Graph-based learning, multichannel data analysis and multimodal information fusion: Analysis of cell inter-relations in tummor microenvironment"
   url: "/research/tmeanalysis"
   img: "/assets/images/research/cancer_cell_graph.png"
   img_alt: "Composite image of a multispectral histology sample and an overlaid cell graph"
