@@ -59,7 +59,7 @@
       year: 2025
       doi: 10.3389/frobt.2025.1547578 
       arxiv: 2407.04352
-      dataset: zenodo.org/records/15391848
+      data: zenodo.org/records/15391848
       code: 
 
 - year: 2024
@@ -87,6 +87,30 @@
       arxiv: 2202.01783
       code: github.com/MIDA-group/OralCancerMILvsSIL
       data: doi.org/10.5281/zenodo.7020311
+
+    - title: "Detection of Extremely Sparse Key Instances in Whole Slide Cytology Images via Self-supervised One-class Representation Learning"
+      type: "inproceedings"
+      author: "<b>S. Chatterjee</b>, O. Göksel, <b>N. Sladoje</b>, <b>J. Lindblad</b>"
+      booktitle: "International Conference on Pattern Recognition, ICPR 2024, Lecture Notes in Computer Science (LNCS)"
+      volume: 15327
+      number:
+      pages: 408-421
+      year: 2024
+      doi: 10.1007/978-3-031-78398-2_27
+      arxiv: 
+      code: github.com/MIDA-group/occ_cyto
+
+    - title: "Are We Friends? End-to-End Prediction of Child Rapport in Guided Play"
+      type: "inproceedings"
+      author: "<b>M. Fraile</b>, G. Varni, <b>J. Lindblad</b>, <b>N. Sladoje</b>, G. Castellano"
+      booktitle: "European Conference on Computer Vision, ECCV 2004 Workshops , Lecture Notes in Computer Science (LNCS)"
+      volume: 15637
+      number:
+      pages: 380-392
+      year: 2024
+      doi: 10.1007/978-3-031-91581-9_27
+      arxiv: 
+      code: 
 
 - year: 2023
   publications:
