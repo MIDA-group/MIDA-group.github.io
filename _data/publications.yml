@@ -109,6 +109,17 @@
       doi: 10.1007/978-3-031-91581-9_27
       arxiv: 
       code: 
+      
+    - title: "Correlated multimodal imaging in life sciences: lessons learnt"
+      type: "article"
+      author: "P.S. Rudraiah, R. Camacho, et al."
+      journal: "Frontiers in Biomaterials Science"
+      volume: 3
+      pages: 
+      year: 2024
+      doi: 10.3389/fbiom.2024.1338115
+      
+      
 
 - year: 2023
   publications:
