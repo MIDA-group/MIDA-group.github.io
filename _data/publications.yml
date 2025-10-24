@@ -124,3 +124,13 @@
 
 - year: 2023
   publications:
+  
+    - title: "Bio-Image Informatics Index BIII: A unique database of image analysis tools and workflows for and by the bioimaging community"
+      type: "article"
+      author: "C. Zhang, A. Gaignard et al."
+      journal: 
+      volume: 
+      number:
+      year: 2023
+      doi:
+      arxiv: 2312.11256
