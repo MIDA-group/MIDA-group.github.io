@@ -182,3 +182,14 @@
       arxiv: 
       code: 
       
+    - title: "Contrastive Learning of Equivariant Image Representations for Multimodal Deformable Registration"
+      type: "inproceedings"
+      author: "<b>L. Nordling</b>, <b>J. Öfverstedt</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      booktitle: "IEEE 20th International Symposium on Biomedical Imaging, ISBI 2023"
+      volume: 
+      number:
+      pages: 1-5
+      year: 2023
+      doi: 10.1109/ISBI53787.2023.10230465
+      arxiv: 
+      code: github.com/MIDA-group/CoMIR_INSPIRE
