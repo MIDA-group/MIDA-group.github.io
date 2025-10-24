@@ -62,8 +62,8 @@
       dataset: zenodo.org/records/15391848
       code: 
 
- - year: 2024
-   publications:
+- year: 2024
+  publications:
 
     - title: "Cross-modality sub-image retrieval using contrastive multimodal image representations"
       type: "article"
@@ -88,5 +88,5 @@
       code: github.com/MIDA-group/OralCancerMILvsSIL
       data: doi.org/10.5281/zenodo.7020311
 
- - year: 2023
-   publications:
+- year: 2023
+  publications:
