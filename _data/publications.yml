@@ -49,7 +49,20 @@
       arxiv: 2407.01869
       code: github.com/MIDA-group/LetItShine
 
-- year: 2024
+    - title: "UpStory: the uppsala storytelling dataset"
+      type: "article"
+      author: "<b>M. Fraile </b>, N. Calvo-Barajas, A.S. Apeiron, G. Varni, <b>J. Lindblad </b>, <b>N. Sladoje </b, > G. Castellano"
+      booktitle: "Frontiers in robotics and AI""
+      volume: 12
+      number: "1547578"
+      pages: 
+      year: 2025
+      doi: 10.3389/frobt.2025.1547578 
+      arxiv: 2407.04352
+      dataset: https://zenodo.org/records/15391848
+      code: 
+
+ - year: 2024
   publications:
 
     - title: "Cross-modality sub-image retrieval using contrastive multimodal image representations"
