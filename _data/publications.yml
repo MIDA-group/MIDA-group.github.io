@@ -128,9 +128,20 @@
     - title: "Bio-Image Informatics Index BIII: A unique database of image analysis tools and workflows for and by the bioimaging community"
       type: "article"
       author: "C. Zhang, A. Gaignard et al."
-      journal: 
+      journal: "Submitted"
       volume: 
       number:
       year: 2023
       doi:
       arxiv: 2312.11256
+
+    - title: "Automated detection, segmentation and measurement of major vessels and the trachea in CT pulmonary angiography"
+      type: "article"
+      author: "A. T. Kahraman, T. Fröding, D. Toumpanakis, <b>N. Sladoje</b>, T. Sjöblum"
+      journal: "Scientific Reports"
+      volume: "13, 18407"
+      number: 
+      year: 2023
+      doi: 10.1038/s41598-023-45509-1
+      arxiv: 
+      code: 
