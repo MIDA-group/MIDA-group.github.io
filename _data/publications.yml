@@ -97,7 +97,6 @@
       pages: 408-421
       year: 2024
       doi: 10.1007/978-3-031-78398-2_27
-      arxiv: 
       code: github.com/MIDA-group/occ_cyto
 
     - title: "Are We Friends? End-to-End Prediction of Child Rapport in Guided Play"
@@ -105,7 +104,6 @@
       author: "<b>M. Fraile</b>, G. Varni, <b>J. Lindblad</b>, <b>N. Sladoje</b>, G. Castellano"
       booktitle: "European Conference on Computer Vision, ECCV 2004 Workshops, Lecture Notes in Computer Science (LNCS)"
       volume: 15637
-      number:
       pages: 380-392
       year: 2024
       doi: 10.1007/978-3-031-91581-9_27
