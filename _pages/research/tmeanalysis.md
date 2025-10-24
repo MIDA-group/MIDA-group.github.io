@@ -35,11 +35,6 @@ close collaboration with <a href="https://www.uu.se/en/department/immunology-gen
 at the Department of Immunology, Genetics and Pathology (IGP) at Uppsala University.
 </div>
 
----
-
-# More headers?
-
-More info about methods/subprojects, publications, data, involved people, etc. 
 
 ---
 # Collaborators
@@ -58,5 +53,5 @@ This research is funded by:
     <li><a href="https://www.essenceofescience.se/w/es/en/education">eSSENCE graduate school</a>.</li>
 </ul>
 
-# Publications
+
 
