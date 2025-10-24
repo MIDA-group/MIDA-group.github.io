@@ -22,7 +22,7 @@ We are currently focused on developing AI-driven methods for biomedical image an
 
 # Contact
 
-All inquiries regarding the lab's activities can be sent to 
+All inquiries regarding the group's activities can be sent to 
 <a href="mailto:natasa.sladoje@it.uu.se">natasa.sladoje@it.uu.se</a>.
 
 Our offices are located on the 4th floor of the <a href="https://kartor.eniro.se/m/RjRfE">Ångström Laboratory,
