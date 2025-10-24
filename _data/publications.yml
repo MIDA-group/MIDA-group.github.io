@@ -157,3 +157,28 @@
       doi: 10.1007/978-3-031-36616-1_21
       arxiv: 2303.00403
       code: 
+
+    - title: "A paradigm shift in the prevention and diagnosis of oral squamous cell carcinoma"
+      type: "article"
+      author: "J-M. Hirsch, R. Sandy, B. Hasséus, <b>J. Lindblad</b>"
+      journal: "Journal of Oral Pathology & Medicine"
+      volume: "52"
+      number: 9
+      pages: 826-833
+      year: 2023
+      doi:  10.1111/jop.13484
+      arxiv: 
+      code: 
+      
+    - title: "Dental hygienists and dentists as providers of brush biopsies for oral mucosa screening"
+      type: "article"
+      author: "K. Edman, C. Runow Stark, V. Basic, <b>J. Lindblad</b>, J-M. Hirsch"
+      journal: "International Journal of Dental Hygiene"
+      volume: "21"
+      number: 3
+      pages: 524-532
+      year: 2023
+      doi:  10.1111/idh.12713 
+      arxiv: 
+      code: 
+      
