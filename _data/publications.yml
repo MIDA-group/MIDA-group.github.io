@@ -113,7 +113,7 @@
       
     - title: "Correlated multimodal imaging in life sciences: lessons learnt"
       type: "article"
-      author: "P.S. Rudraiah, R. Camacho, et al."
+      author: "P. S. Rudraiah, R. Camacho, et al."
       journal: "Frontiers in Biomaterials Science"
       volume: 3
       pages: 
@@ -144,4 +144,16 @@
       year: 2023
       doi: 10.1038/s41598-023-45509-1
       arxiv: 
+      code: 
+
+    - title: "Can Representation Learning for Multimodal Image Registration be Improved by Supervision of Intermediate Layers?"
+      type: "inproceedings"
+      author: "<b>E. Wetzer</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      booktitle: "Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA 2023, Lecture Notes in Computer Science (LNCS)"
+      volume: 14062
+      number:
+      pages: 261-275
+      year: 2023
+      doi: 10.1007/978-3-031-36616-1_21
+      arxiv:
       code: 
