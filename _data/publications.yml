@@ -49,6 +49,18 @@
       arxiv: 2407.01869
       code: github.com/MIDA-group/LetItShine
 
+    - title: "Roadmap on deep learning for microscopy"
+      type: "article"
+      author: "G. Volpe, C. Wählby, L. Tian et al. "
+      journal: "Journal of Physics: Photonics"
+      volume: 
+      number: 
+      year: "2025"
+      doi: 10.1088/2515-7647/ae0fd1
+      arxiv: 
+      code: 
+      data: 
+
     - title: "UpStory: the uppsala storytelling dataset"
       type: "article"
       author: "<b>M. Fraile</b>, N. Calvo-Barajas, A. S. Apeiron, G. Varni, <b>J. Lindblad</b>, <b>N. Sladoje</b>, G. Castellano"
@@ -193,3 +205,19 @@
       doi: 10.1109/ISBI53787.2023.10230465
       arxiv: 
       code: github.com/MIDA-group/CoMIR_INSPIRE
+
+    - title: "INSPIRE: Intensity and spatial information-based deformable image registration"
+      type: "article"
+      author: "<b>J. Öfverstedt</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      journal: "PLoS ONE"
+      volume: 18
+      number: 3
+      year: "e0282432, 2023"
+      doi: 10.1371/journal.pone.0282432
+      arxiv: 
+      code: github.com/MIDA-group/inspire
+      data: 10.5281/zenodo.7552884
+
+  
+
+      
