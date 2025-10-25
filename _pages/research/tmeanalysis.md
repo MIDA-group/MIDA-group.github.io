@@ -1,6 +1,6 @@
 ---
 layout: infolab-toplevel
-title: Modelling and analysis of tumor microenvironment in multiplex microscopy
+title: Data-Driven Approaches to Tumor Microenvironment Characterization 
 permalink: /research/tmeanalysis
 header:
   overlay_image: /assets/images/research/cancer_cell_graph.png
