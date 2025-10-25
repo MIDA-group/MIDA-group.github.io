@@ -18,7 +18,9 @@ Our research is currently focused on developing AI-based methods for
 # Research projects
 {: .page-title}
 
-{% for area in site.data.areas %}
+## Test header (does it go to ToC?)
+
+{% for area in site.data.research_areas %}
 ---
 <div class="research-area-entry">
 <a href="{{ area.url }}" class="research-area-box">

@@ -11,4 +11,11 @@
 
 - name: "Weakly-Supervised, Self-Supervised, and Meta-Learning for Digital Cytology"
   url: "/research/digital_cytology"
-  description: ""
+  img: "/assets/images/CytologyCells.jpg"
+  img_alt: "Papanicolaou stain stained epithelial cells, as viewed in a microscope"
+  description: "High mortality of oral and oropharyngeal cancer can be attributed to late diagnosis. 
+    Brush sampling and cytological analysis is efficient for early detection of cancer, but the analysis 
+    is costly and requires highly skilled expertise. Modern AI-techniques have made it feasible to 
+    radically reduce the analysis cost while at the same time increase speed and diagnostic accuracy. 
+    We are developing methods for efficient AI-suppoerted oral cancer screening to meet the 
+    performance needs of large scale screening in resource-limited environments."

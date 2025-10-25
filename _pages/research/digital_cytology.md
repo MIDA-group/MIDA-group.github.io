@@ -1,9 +1,9 @@
 ---
 layout: infolab-toplevel
 title: Weakly-Supervised, Self-Supervised, and Meta-Learning for Digital Cytology
-permalink: /research/digitalcytology
+permalink: /research/digital_cytology
 header:
-  overlay_image: /assets/images/banner_small.jpg
+  overlay_image: /assets/images/CytologyCells.jpg
   overlay_filter: "0.4"
   overlay_padding: 20vh
 toc: false
