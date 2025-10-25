@@ -9,7 +9,7 @@ header:
 toc: false
 ---
 
-# Introduction
+# Aim
 
 <div class="research-page-text">
 We combine state-of-the-art multiplexed immunofluorescence 
