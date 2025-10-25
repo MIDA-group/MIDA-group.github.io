@@ -1,6 +1,6 @@
 ---
 layout: infolab-toplevel
-title: Tumor microenvironment analysis
+title: Modelling and analysis of tumor microenvironment in multiplex microscopy
 permalink: /research/tmeanalysis
 header:
   overlay_image: /assets/images/research/cancer_cell_graph.png
@@ -12,14 +12,16 @@ toc: false
 # Introduction
 
 <div class="research-page-text">
+We combine state-of-the-art multiplexed immunofluorescence 
+microscopy with the latest techniques in image processing and deep learning to 
+advance the understanding of how cell interrelations in the tumor microenvironment 
+affect the disease progression and treatment efficacy.
+
 Immunotherapy has become a life-saving option for advanced cancer patients. 
 However, only a minority of patients develop a durable response. Despite great 
 efforts to explain the variable responses to immunotherapy and to optimize 
 patient selection, current diagnostic tools cannot sufficiently guide clinical 
-practice. This project combines state-of-the-art multiplexed immunofluorescence 
-microscopy with the latest techniques in image processing and deep learning to 
-advance the understanding of how cell interrelations in the tumor microenvironment 
-affect the disease progression and treatment efficacy. <br><br>
+practice.  <br><br>
 
 Starting from a large collection of acquired multispectral histology images, 
 we aim to develop advanced interpretable AI-driven approaches for characterization 
