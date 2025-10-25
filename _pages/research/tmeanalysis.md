@@ -40,8 +40,8 @@ at the Department of Immunology, Genetics and Pathology (IGP) at Uppsala Univers
 
 ---
 # Collaborators
-Patrick Micke, Professor at the Department of Immunology, Genetics and Pathology, Uppsala University
-Artur Mezheyeuski, PhD, Researcher at the Molecular Oncology Group, Vall d'Hebron Institute of Oncology & Vall d'Hebron Institute of Research, Barcelona, Spain
+- Patrick Micke, Professor at the Department of Immunology, Genetics and Pathology, Uppsala University
+- Artur Mezheyeuski, PhD, Researcher at the Molecular Oncology Group, Vall d'Hebron Institute of Oncology & Vall d'Hebron Institute of Research, Barcelona, Spain
 
 # Funding
 

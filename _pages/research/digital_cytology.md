@@ -22,10 +22,12 @@ High mortality in oral cancer is largely due to late diagnosis. Today´s cancer 
 More info about methods/subprojects, publications, data, involved people, etc.  -->
 
 # Collaborators
+- Christina Runow Stark, Dr Med Sci., Center for Medical Dentistry, Folktandvården in Region Uppsala, Odontology and Maxillofacial Surgery, Dept. of Surgical Sciences, Uppsala University
+- Jan-Michaél Hirsch, Prof., Dept. of Surgical Sciences, Uppsala University, Folktandvården Stockholms län AB
+- Bengt Hasséus, Prof., Dept. of Oral Medicine and Pathology, Institute of Odontology, Sahlgrenska Academy, University of Gothenburg
+- and many more...
 
+<!-- # Funding -->
 
-# Funding
-
-
-# Publications
+<!-- # Publications -->
 

@@ -18,7 +18,7 @@ Our research is currently focused on developing AI-based methods for
 # Research projects
 {: .page-title}
 
-## Test header (does it go to ToC?)
+<h2> Test header (does it go to ToC?) </h2>
 
 {% for area in site.data.research_areas %}
 ---
