@@ -132,7 +132,17 @@
       year: 2024
       doi: 10.3389/fbiom.2024.1338115
       
-      
+    - title: "Early Detection of Oral Potentially Malignant Disorders: A Review on Prospective Screening Methods with Regard to Global Challenges"
+      type: "article"
+      author: "N. Haj-Hosseini, <b>J. Lindblad</b>, B. Hasséus, V.V. Kumar, N. Subramaniam, J-M. Hirsch"
+      journal: "Journal of Maxillofacial and Oral Surgery"
+      volume: "23"
+      number: 
+      pages: 23-32
+      year: 2024
+      doi: 10.1007/s12663-022-01710-9 
+      arxiv: 
+      code:    
 
 - year: 2023
   publications:
@@ -178,7 +188,7 @@
       number: 9
       pages: 826-833
       year: 2023
-      doi:  10.1111/jop.13484
+      doi: 10.1111/jop.13484
       arxiv: 
       code: 
       
@@ -190,7 +200,7 @@
       number: 3
       pages: 524-532
       year: 2023
-      doi:  10.1111/idh.12713 
+      doi: 10.1111/idh.12713 
       arxiv: 
       code: 
       
@@ -223,7 +233,7 @@
   
     - title: "End-to-end Multiple Instance Learning with Gradient Accumulation"
       type: "inproceedings"
-      author: "A. Andersson, <b>N. Koriakina</b>, <b>N. Sladoje</b> ,<b>J. Lindblad</b>"
+      author: "A. Andersson, <b>N. Koriakina</b>, <b>N. Sladoje</b>, <b>J. Lindblad</b>"
       booktitle: "IEEE International Conference on Big Data, 2022"
       volume: 
       number:
@@ -232,6 +242,19 @@
       doi: 10.1109/BigData55660.2022.10020801
       arxiv: 2203.03981
       code: github.com/axanderssonuu/ABMIL_with_accumulating_gradients
+
+      
+    - title: "Fast computation of mutual information in the frequency domain with applications to global multimodal image alignment"
+      type: "article"
+      author: "<b>J. Öfverstedt</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      journal: "Pattern Recognition Letters"
+      volume: 159
+      pages: 196-203
+      year: "2022"
+      doi: 10.1016/j.patrec.2022.05.022 
+      arxiv: 2106.14699
+      code: github.com/MIDA-group/globalign
+      data: 
       
     - title: "Cross-Sim-NGF: FFT-Based Global Rigid Multimodal Alignment of Image Volumes using Normalized Gradient Fields"
       type: "inproceedings"
@@ -255,3 +278,27 @@
       doi: 10.1145/3536221.3556629
       arxiv: 
       code: github.com/MarcFraile/infant-engagement 
+
+    - title: " Is Image-to-Image Translation the Panacea for Multimodal Image Registration? A Comparative Study"
+      type: "article"
+      author: "<b>J. Lu</b>, <b>J. Öfverstedt</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      journal: "PLoS ONE"
+      volume: 17
+      number: 11
+      year: "e0276196, 2022"
+      doi: 10.1371/journal.pone.0276196
+      arxiv: 2103.16262
+      code: github.com/MIDA-group/MultiRegEval
+      data: 
+
+    - title: "Rotation-Equivariant Semantic Instance Segmentation on Biomedical Images"
+      type: "inproceedings"
+      author: "K. Bengtsson Bernander, <b>J. Lindblad</b>, R. Strand, I. Nyström"
+      booktitle: "26th Conference on Medical Image Understanding and Analysis (MIUA), Lecture Notes in Computer Science (LNCS)"
+      volume: 13413
+      number:
+      pages: 283-297
+      year: 2022
+      doi: 10.1007/978-3-031-12053-4_22
+      arxiv:
+      code:  
