@@ -18,8 +18,6 @@ Our research is currently focused on developing AI-based methods for
 # Research projects
 {: .page-title}
 
-<h2> Test header (does it go to ToC?) </h2>
-
 {% for area in site.data.research_areas %}
 ---
 <div class="research-area-entry">
@@ -30,7 +28,8 @@ Our research is currently focused on developing AI-based methods for
           </figure>
      </div>
      <div class="pull-up">
-          <h2 class="research-area-text-size text-in-img research-area-header">{{ area.name }}</h2>
+          <!-- <h2 class="research-area-text-size text-in-img research-area-header">{{ area.name }}</h2> -->
+          ## {{ area.name }} {: .research-area-header .research-area-text-size .text-in-img }
      </div>
 </a>
 <div class="research-area-text">
