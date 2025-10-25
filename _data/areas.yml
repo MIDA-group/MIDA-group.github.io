@@ -1,6 +1,6 @@
 # Research areas
 
-- name: "Graph-Based Learning and Multichannel and Multimodal Image Information Fusion for Analysis of Tumor Microenvironment"
+- name: "Data-driven Spatial Omics: Characterisation of Tumor Microenvironment"
   url: "/research/tmeanalysis"
   img: "/assets/images/research/cancer_cell_graph.png"
   img_alt: "Composite image of a multispectral histology sample and an overlaid cell graph"
