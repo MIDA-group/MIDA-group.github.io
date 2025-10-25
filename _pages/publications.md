@@ -11,7 +11,7 @@ toc: true
 Here we only list publications related to the activities of the group. For other publications of the lab members, please consult their personal pages.
 
 {% for publist in site.data.publications %}
-## {{ publist.year }}
+# {{ publist.year }}
 
 {% for pub in publist.publications %}
 **{{ pub.title }}**<br/>
