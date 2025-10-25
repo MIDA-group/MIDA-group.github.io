@@ -242,7 +242,6 @@
       doi: 10.1109/BigData55660.2022.10020801
       arxiv: 2203.03981
       code: github.com/axanderssonuu/ABMIL_with_accumulating_gradients
-
       
     - title: "Fast computation of mutual information in the frequency domain with applications to global multimodal image alignment"
       type: "article"
