@@ -217,7 +217,41 @@
       arxiv: 
       code: github.com/MIDA-group/inspire
       data: 10.5281/zenodo.7552884
-
-  
-
       
+- year: 2022
+  publications:
+  
+    - title: "End-to-end Multiple Instance Learning with Gradient Accumulation"
+      type: "inproceedings"
+      author: "A. Andersson, <b>N. Koriakina</b>, <b>N. Sladoje</b> ,<b>J. Lindblad</b>"
+      booktitle: "IEEE International Conference on Big Data, 2022"
+      volume: 
+      number:
+      pages: 2742-2746
+      year: 2022
+      doi: 10.1109/BigData55660.2022.10020801
+      arxiv: 2203.03981
+      code: github.com/axanderssonuu/ABMIL_with_accumulating_gradients
+      
+    - title: "Cross-Sim-NGF: FFT-Based Global Rigid Multimodal Alignment of Image Volumes using Normalized Gradient Fields"
+      type: "inproceedings"
+      author: "<b>J. Öfverstedt</b>, <b>J. Lindblad</b>, <b>N. Sladoje</b>"
+      booktitle: "10th International Workshop on Biomedical Image Registration (WBIR), Lecture Notes in Computer Science (LNCS)"
+      volume: 13386
+      number:
+      pages: 156-165
+      year: 2022
+      doi: 10.1007/978-3-031-11203-4_17
+      arxiv: 2110.10156
+      code: github.com/mida-group/cross_sim_ngf   
+     
+    - title: "End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability"
+      type: "inproceedings"
+      author: "<b>M. Fraile</b>, C. Fawcett, <b>J. Lindblad</b>, <b>N. Sladoje</b>, G. Castellano"
+      booktitle: "24th ACM International Conference on Multimodal Interaction, ICMI 2022"
+      volume: 
+      pages: 444-454
+      year: 2022
+      doi: 10.1145/3536221.3556629
+      arxiv: 
+      code: github.com/MarcFraile/infant-engagement 
