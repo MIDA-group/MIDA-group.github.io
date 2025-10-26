@@ -2,10 +2,10 @@
 layout: infolab-toplevel
 title: "Announcements"
 permalink: /announcements/
-author_profile: false
 header:
   overlay_image: /assets/images/banner_small.jpg
   overlay_filter: "0.4"
+  overlay_padding: 20vh
 toc: true
 ---
 
