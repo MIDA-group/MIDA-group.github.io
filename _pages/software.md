@@ -26,7 +26,7 @@ We strive to release all pieces of software that we create as open sorce on [Git
           </figure>
      </div>
      <div class="pull-up">
-          <h2 class="research-area-text-size text-in-img research-area-header">{{ software.name }}</h2>
+          <h2 id="header_{{ software.name }}" class="research-area-text-size text-in-img research-area-header">{{ software.name }}</h2>
      </div>
 </a>
 <div class="research-area-text">
