@@ -12,6 +12,8 @@ toc: true
 # Open Positions
 There are currently no open positions. 
 
+---
+
 # Masters Thesis offered for VT 2026
 At our lab we host a limited number of masters thesis projects, listed below. Those working on these projects become temporary members of the lab, are expected to complete the project under the agreed time constraints.
  
