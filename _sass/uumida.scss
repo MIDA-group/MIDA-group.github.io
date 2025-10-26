@@ -85,12 +85,13 @@ div.stop {
 
 
 .text-in-img {
-background-color: darkred;
-color: white;
-display: inline;
-padding: 5px 10px;
-margin: 0 0 0 10px;
-border-radius: 3px;
+    position: relative;
+    background-color: darkred;
+    color: white;
+    display: inline;
+    padding: 5px 10px;
+    margin: 0 0 0 10px;
+    border-radius: 3px;
 }
 
 .research-area-text-size {
