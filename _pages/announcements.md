@@ -15,7 +15,7 @@ There are currently no open positions.
 ---
 
 # Masters Theses offered for VT 2026
-At our lab we host a limited number of masters thesis projects, listed below. Those working on these projects become temporary members of the lab, are expected to complete the project under the agreed time constraints.
+At our lab we host a limited number of masters thesis projects, listed below. 
  
 ## [Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D](https://docs.google.com/document/d/1yYhgMBeTbjx4zJx1h6VEvm-WUfpBkQ5eg8tre63nfjw/edit?usp=sharing)
 3D reconstruction of tissue by registration of 2D images of tissue slices acquired by multichannel (multiplex) immuno-fluorescence microscopy.  AI-driven analysis of cell graphs constructed on these images,  in 2D and 3D,  on a selected classification task.  
