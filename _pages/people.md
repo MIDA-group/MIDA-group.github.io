@@ -3,7 +3,7 @@ layout: infolab-toplevel
 title: People
 permalink: /people/
 header:
-  overlay_image: /assets/images/MIDA_logo.jpg
+  overlay_image: /assets/images/MIDA_logo.png
   overlay_filter: "0.4"
 ---
 
