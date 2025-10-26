@@ -3,6 +3,10 @@ layout: single
 title: "Announcements"
 permalink: /announcements/
 author_profile: false
+header:
+  overlay_image: /assets/images/banner_small.jpg
+  overlay_filter: "0.4"
+toc: true
 ---
 
 ## Announcements
@@ -12,7 +16,6 @@ There are currently no open positions.
 ### Masters Thesis offered
 Masters thesis offered for VT 2026
 
-[project title, description and form link]
 #### Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D
 #### AI-supported Survival Prediction from Multichannel Microscopy Images of Cancer Tissue
 #### Impact of Mixed Witness Rates on Malignant Cell Detection in Cytology
