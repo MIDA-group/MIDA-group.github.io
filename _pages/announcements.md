@@ -3,8 +3,9 @@ layout: infolab-toplevel
 title: "Announcements"
 permalink: /announcements/
 header:
-  overlay_image: /assets/images/banner_small.jpg
+  overlay_image: /assets/images/MIDA_logo.png
   overlay_filter: "0.4"
+  overlay_position: "center 100%"
 toc: true
 ---
 

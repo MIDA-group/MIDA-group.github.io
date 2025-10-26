@@ -3,8 +3,9 @@ layout: infolab-toplevel
 title: Software
 permalink: /software/
 header:
-  overlay_image: /assets/images/banner_small.jpg
+  overlay_image: /assets/images/MIDA_logo.png
   overlay_filter: "0.4"
+  overlay_position: "center 60%"
 toc: true
 ---
 

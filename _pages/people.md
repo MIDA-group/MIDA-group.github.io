@@ -5,6 +5,7 @@ permalink: /people/
 header:
   overlay_image: /assets/images/MIDA_logo.png
   overlay_filter: "0.4"
+  overlay_position: "center 20%"
 ---
 
 # Members
