@@ -5,7 +5,8 @@ permalink: /
 header:
     overlay_color: "#000"
     overlay_filter: "0.4"
-    overlay_image: /assets/images/banner_small.jpg
+    overlay_image: /assets/images/MIDA_logo.png
+    overlay_position: "top"
 excerpt: "Department of Information Technology <br/>Ångströmlaboratoriet"
 ---
 
