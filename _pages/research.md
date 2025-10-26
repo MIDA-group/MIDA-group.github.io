@@ -20,6 +20,7 @@ Our research is currently focused on developing AI-based methods for
 
 {% for area in site.data.research_areas %}
 ---
+## {{ area.name }} {: .research-area-header .research-area-text-size .text-in-img }
 <div class="research-area-entry">
 <a href="{{ area.url }}" class="research-area-box">
      <div class="research-area-figure">
@@ -28,8 +29,8 @@ Our research is currently focused on developing AI-based methods for
           </figure>
      </div>
      <div class="pull-up">
-          <!-- <h2 class="research-area-text-size text-in-img research-area-header">{{ area.name }}</h2> -->
-          ## {{ area.name }} {: .research-area-header .research-area-text-size .text-in-img }
+          <h2 id="header_{{ area.name }}" class="research-area-text-size text-in-img research-area-header">{{ area.name }}</h2>
+          <!-- ## {{ area.name }} {: .research-area-header .research-area-text-size .text-in-img } -->
      </div>
 </a>
 <div class="research-area-text">
