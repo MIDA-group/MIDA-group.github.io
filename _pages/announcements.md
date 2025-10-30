@@ -11,6 +11,7 @@ toc: true
 
 # Open Positions
 ## [Postdoctoral position in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=869660) 
+Application deadline: Dec 5, 2025
 
 ---
 
