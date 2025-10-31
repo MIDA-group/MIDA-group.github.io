@@ -36,3 +36,6 @@ Develop an image registration pipeline for aligning whole slide images, acquired
 
 ### [Deep Learning Based Focus Interpolation for Microscopy](https://docs.google.com/document/d/1kl90DMD42Aif2sCowE-7m53fJmRPk2u1_StKjEsx7pI/edit?usp=sharing)
 To explore to what extent it is possible to confidently predict an image at a focus level in between two or more images acquired, i.e., to perform focus interpolation, possibly relying on modern generative models such as variational autoencoders or stable diffusion.
+
+### [Deep Learning in the Browser – AI-supported Cancer Detection for the Masses](https://docs.google.com/document/d/1T5C2KZkIxZckLLeKqp2eTEIOhFjC2N57YZMpvekL2UQ/edit?usp=sharing)
+To explore if and how efficient Deep Learning inference and training for AI-supported early cancer detection, can be performed on the browser of the medical doctor instead of, as today, on a central server.
