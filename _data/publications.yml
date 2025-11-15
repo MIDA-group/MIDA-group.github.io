@@ -313,3 +313,65 @@
       doi: 10.1007/s10851-022-01117-8
       arxiv:
       code:  
+      
+- year: 2021
+  publications:
+
+    - title: "The Effect of Within-Bag Sampling on End-to-End Multiple Instance Learning"
+      type: "inproceedings"
+      author: "<b>N. Koriakina</b>, <b>N. Sladoje</b>, <b>J. Lindblad</b>"
+      booktitle: "12th IEEE International Symposium on Image and Signal Processing and Analysis (ISPA)"
+      volume: 
+      number:
+      pages: 183-188
+      year: 2021
+      doi:  10.1109/ISPA52656.2021.9552170
+      arxiv: 
+      code: github.com/MIDA-group/SampledABMIL  
+
+    - title: "Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment"
+      type: "inproceedings"
+      author: "<b>M. Fraile</b>, <b>J. Lindblad</b>, C. Fawcett,  <b>N. Sladoje</b>, G. Castellano"
+      booktitle: "ICMI Workshop on Bridging Social Sciences and AI for Understanding Child Behavior (WoCBU), (ICMI '21 Companion)"
+      volume: 
+      pages: 403-407
+      year: 2021
+      doi: 10.1145/3461615.3485443
+      arxiv: 
+      code: 
+
+    - title: "Replacing data augmentation with rotation-equivariant CNNs in image-based classification of oral cancer"
+      type: "inproceedings"
+      author: "K. Bengtsson Bernander, <b>J. Lindblad</b>, R. Strand, I. Nyström"
+      booktitle: "25th Iberoamerican Congress on Pattern Recognition (CIARP), Lecture Notes in Computer Science (LNCS)"
+      volume: 12702
+      number:
+      pages: 24-33
+      year: 2021
+      doi: 10.1007/978-3-030-93420-0_3
+      arxiv:
+      code:    
+
+    - title: "Special Issue on Discrete Geometry and Mathematical Morphology, Guest Editorial"
+      type: "inproceedings"
+      author: "<b>J. Lindblad</b>, F. Malmberg, <b>N. Sladoje</b>, Editors"
+      booktitle: "Discrete Geometry and Mathematical Morphology. 1st International Joint Conference, DGMM 2021, Lecture Notes in Computer Science" 
+      volume: 12708
+      number: 
+      pages: 1-552
+      year: 2021
+      doi: 10.1007/978-3-030-76657-3
+      arxiv:
+      code:  
+
+    - title: "Introduction - Computer-Assisted Analysis of Multimodality Image Data. Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2"
+      type: "article"
+      author: "<b>N. Sladoje</b>, <b>J. Lindblad</b>"
+      journal: "IPEM-IOP Series in Physics and Engineering in Medicine and Biology"
+      volume: 24
+      number: 
+      pages: 691-692
+      year: 2021
+      doi: 10.1088/978-0-7503-3747-2
+      arxiv:
+      code:   
