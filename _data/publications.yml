@@ -355,7 +355,7 @@
     - title: "Special Issue on Discrete Geometry and Mathematical Morphology, Guest Editorial"
       type: "inproceedings"
       author: "<b>J. Lindblad</b>, F. Malmberg, <b>N. Sladoje</b>, Editors"
-      booktitle: "Discrete Geometry and Mathematical Morphology. 1st International Joint Conference, DGMM 2021, Lecture Notes in Computer Science" 
+      booktitle: "Discrete Geometry and Mathematical Morphology. 1st International Joint Conference (DGMM), Lecture Notes in Computer Science (LNCS)" 
       volume: 12708
       number: 
       pages: 1-552
@@ -364,9 +364,10 @@
       arxiv:
       code:  
 
-    - title: "Introduction - Computer-Assisted Analysis of Multimodality Image Data. Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2"
-      type: "article"
+    - title: "Introduction - Computer-Assisted Analysis of Multimodality Image Data"
+      type: "chapter"
       author: "<b>N. Sladoje</b>, <b>J. Lindblad</b>"
+      chapter in: "Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2"
       journal: "IPEM-IOP Series in Physics and Engineering in Medicine and Biology"
       volume: 24
       number: 
