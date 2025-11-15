@@ -367,12 +367,35 @@
     - title: "Introduction - Computer-Assisted Analysis of Multimodality Image Data"
       type: "chapter"
       author: "<b>N. Sladoje</b>, <b>J. Lindblad</b>"
-      chapter in: "Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2"
-      journal: "IPEM-IOP Series in Physics and Engineering in Medicine and Biology"
-      volume: 24
+      book: "Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2. IPEM-IOP Series in Physics and Engineering in Medicine and Biology, Ch. 24"
+      volume: 
       number: 
-      pages: 691-692
+      pages: 
       year: 2021
       doi: 10.1088/978-0-7503-3747-2
       arxiv:
       code:   
+
+    - title: "Computer-assisted analysis of multimodal image data - perspectives and conclusion"
+      type: "chapter"
+      author: "<b>N. Sladoje</b>, <b>J. Lindblad</b>, P. Paul-Gilloteaux"
+      book: "Imaging Modalities for Biological and Preclinical Research: A Compendium, Volume 2. IPEM-IOP Series in Physics and Engineering in Medicine and Biology, Ch. 30"
+      volume: 
+      number: 
+      pages: 
+      year: 2021
+      doi: 10.1088/978-0-7503-3747-2
+      arxiv:
+      code:
+
+    - title: "CytoBrowser: a browser-based collaborative annotation platform for whole slide images"
+      type: "article"
+      author: "C. Rydell, <b>J. Lindblad</b>"
+      journal: "F1000Research"
+      volume: 10:226
+      pages: 
+      year: 2021
+      doi: doi:10.12688/f1000research.51916.1
+      arxiv: 
+      code: github.com/MIDA-group/CytoBrowser
+      data: 
