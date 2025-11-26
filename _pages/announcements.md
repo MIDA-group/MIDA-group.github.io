@@ -18,14 +18,15 @@ Application deadline: Dec 5, 2025
 # Master's thesis projects offered for VT 2026
 At our lab we host a limited number of master's thesis projects, listed below. 
  
-### <span style="color: gray;">\[Filled\] [Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D](https://docs.google.com/document/d/1yYhgMBeTbjx4zJx1h6VEvm-WUfpBkQ5eg8tre63nfjw/edit?usp=sharing)</span>
-<span style="color: gray;">
+<div style="color: gray;">
+### \[Filled\] [Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D](https://docs.google.com/document/d/1yYhgMBeTbjx4zJx1h6VEvm-WUfpBkQ5eg8tre63nfjw/edit?usp=sharing)
 3D reconstruction of tissue by registration of 2D images of tissue slices acquired by multichannel (multiplex) immuno-fluorescence microscopy.  AI-driven analysis of cell graphs constructed on these images,  in 2D and 3D,  on a selected classification task.  
-</span>
+</dif>
 
-### <font color="gray">\[Filled\] [AI-supported Survival Prediction from Multichannel Microscopy Images of Cancer Tissue](https://docs.google.com/document/d/1ITiYQ6ypnhloYg2Srjx2VsM6WH82yC5Sc_08uQ5lpWA/edit?usp=sharing)
+<div style="color: gray;">
+### \[Filled\] [AI-supported Survival Prediction from Multichannel Microscopy Images of Cancer Tissue](https://docs.google.com/document/d/1ITiYQ6ypnhloYg2Srjx2VsM6WH82yC5Sc_08uQ5lpWA/edit?usp=sharing)
 Performance evaluation of selected state-of-the-art models (e.g., foundation models) applicable to multichannel microscopy images (e.g. multiplex immunofluorescence, mIF) on the task of cancer survival prediction.     
-</font>
+</dif>
 
 ### [Impact of Mixed Witness Rates on Malignant Cell Detection in Cytology](https://docs.google.com/document/d/1jc9x_9LKV6g_bS1rL66wdCxRSRDhupVt99Wh1v2GonI/edit?usp=sharing)
 Explore techniques on how to best train deep networks on heterogeneous medical data without biasing the learning towards the most frequently appearing objects/cases, to maximize performance also for more rare cases.
