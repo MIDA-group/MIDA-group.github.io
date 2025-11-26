@@ -18,9 +18,10 @@ Application deadline: Dec 5, 2025
 # Master's thesis projects offered for VT 2026
 At our lab we host a limited number of master's thesis projects, listed below. 
  
-### <font color="gray">\[Filled\] [Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D](https://docs.google.com/document/d/1yYhgMBeTbjx4zJx1h6VEvm-WUfpBkQ5eg8tre63nfjw/edit?usp=sharing)
+### <span style="color: gray;">\[Filled\] [Extending AI-Based Cell Graph Analysis of Cancer Tumor Microenvironments to 3D](https://docs.google.com/document/d/1yYhgMBeTbjx4zJx1h6VEvm-WUfpBkQ5eg8tre63nfjw/edit?usp=sharing)</span>
+<span style="color: gray;">
 3D reconstruction of tissue by registration of 2D images of tissue slices acquired by multichannel (multiplex) immuno-fluorescence microscopy.  AI-driven analysis of cell graphs constructed on these images,  in 2D and 3D,  on a selected classification task.  
-</font>
+</span>
 
 ### <font color="gray">\[Filled\] [AI-supported Survival Prediction from Multichannel Microscopy Images of Cancer Tissue](https://docs.google.com/document/d/1ITiYQ6ypnhloYg2Srjx2VsM6WH82yC5Sc_08uQ5lpWA/edit?usp=sharing)
 Performance evaluation of selected state-of-the-art models (e.g., foundation models) applicable to multichannel microscopy images (e.g. multiplex immunofluorescence, mIF) on the task of cancer survival prediction.     
