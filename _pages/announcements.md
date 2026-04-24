@@ -10,6 +10,14 @@ toc: true
 ---
 
 # Open Positions
+
+## [PhD position Computerised Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=928758)
+A position withing the [DDLS](https://www.scilifelab.se/data-driven/) SciLifeLab & Wallenberg National Program for Data-Driven Life Science.
+Application deadline: May 22, 2026
+
+
+{% comment %}
+
 ## [Postdoctoral position in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=869660) 
 Application deadline: Dec 5, 2025
 
@@ -44,3 +52,5 @@ To explore to what extent it is possible to confidently predict an image at a fo
 
 ### [Deep Learning in the Browser – AI-supported Cancer Detection for the Masses](https://docs.google.com/document/d/1T5C2KZkIxZckLLeKqp2eTEIOhFjC2N57YZMpvekL2UQ/edit?usp=sharing)
 To explore if and how efficient Deep Learning inference and training for AI-supported early cancer detection, can be performed on the browser of the medical doctor instead of, as today, on a central server.
+
+{% endcomment %}
