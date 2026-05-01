@@ -11,9 +11,19 @@ toc: true
 
 # Open Positions
 
-## [PhD position in Computerised Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=928758)
+## [PhD position in Computerized Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=928758)
 A position within [DDLS](https://www.scilifelab.se/data-driven/), the SciLifeLab & Wallenberg National Program for Data-Driven Life Science.<br />
 Application deadline: May 22, 2026
+
+## [Postdoctoral position in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930233) 
+Application deadline: June 1, 2026
+
+
+
+
+
+
+
 
 
 {% comment %}
