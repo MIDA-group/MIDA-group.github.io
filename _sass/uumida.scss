@@ -165,12 +165,12 @@ h1 {
 
 /* Hide the Permalink anchor */
 /* by adding class="no-anchor" to heading tags in HTML, in kramdown: {:.no-anchor} */
-.no-anchor .anchorjs-link {
+.no-anchor .header-link {
     display: none;
 }
 
 /* Let's hide it for lower level headings as well */
-:is(h3, h4, h5, h6) .anchorjs-link {
+:is(h3, h4, h5, h6) .header-link {
     display: none;
 }
 
