@@ -1,5 +1,5 @@
 /* ==========================================================================
-   UU-Infolab specific
+   UU-MIDA specific
    ========================================================================== */
 
 html {
@@ -162,3 +162,17 @@ a, a:visited {
 h1 {
     margin-top: 2em;
 }
+
+/* Hide the Permalink anchor */
+/* by adding class="no-anchor" to heading tags in HTML, in kramdown: {:.no-anchor} */
+.no-anchor .anchorjs-link {
+    display: none;
+}
+
+/* Let's hide it for lower level headings as well */
+h3, h4, h5, h6  .anchorjs-link {
+    display: none;
+}
+
+
+
