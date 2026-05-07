@@ -22,7 +22,7 @@ A second position (not within DDLS). Do apply to both!<br />
 Application deadline: June 1, 2026
 
 
-## PostDoc Positions
+## Postdoc Positions
 
 ### 1. [Postdoctoral position in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930233) 
 Application deadline: June 1, 2026
