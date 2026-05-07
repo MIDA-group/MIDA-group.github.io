@@ -170,7 +170,7 @@ h1 {
 }
 
 /* Let's hide it for lower level headings as well */
-h3, h4, h5, h6  .anchorjs-link {
+:is(h3, h4, h5, h6) .anchorjs-link {
     display: none;
 }
 
