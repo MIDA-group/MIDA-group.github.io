@@ -11,6 +11,10 @@ toc: true
 
 # Open Positions
 
+Currently there are no open positions at MIDA. We recently closed four calls, and are in the process of evaluating applicants.
+
+{% comment %}
+
 ## PhD Positions
 
 ### 1. [PhD position in Computerized Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=928758)
@@ -38,7 +42,6 @@ Application deadline: June 1, 2026
 
 
 
-{% comment %}
 
 ## [Postdoctoral position in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=869660) 
 Application deadline: Dec 5, 2025
