@@ -11,14 +11,20 @@ toc: true
 
 # Open Positions
 
+## PhD Positions
+
+### 1. [PhD student in Computerized Image Processing with focus on Applications in data-driven precision medicine](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=955187)
+Application deadline: August 20, 2026
+
+{% comment %}
 Currently there are no open positions at MIDA. We recently closed four calls, and are in the process of evaluating applicants.
+{% endcomment %}
 
 {% comment %}
 
 ## PhD Positions
 
 ### 1. [PhD position in Computerized Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=928758)
-A position within [DDLS](https://www.scilifelab.se/data-driven/), the SciLifeLab & Wallenberg National Program for Data-Driven Life Science.<br />
 Application deadline: May 22, 2026
 
 ### 2. [PhD position in Computerized Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930689)
