@@ -14,8 +14,14 @@ toc: true
 Currently there are no open positions at MIDA. We recently closed two calls, and are in the process of evaluating applicants.
 
 
-# Master's thesis projects for VT 2027
-We intend to host a limited number of master's thesis projects at MIDA. A project list will be posted during the fall. 
+# Master's thesis projects offered for VT 2027
+
+At our lab we host a limited number of master's thesis projects, listed [here](https://docs.google.com/document/d/1yJdeZlom4m1q5Fbeiqk3v-40k9vcQN8E0ClJ9nYa06A/edit?usp=sharing). 
+
+
+
+
+
 
 
 {% comment %}
@@ -41,10 +47,6 @@ Application deadline: June 1, 2026
 
 ### 2. [Postdoctoral position in Computerised Image Processing with focus on Machine Learning for Data-Driven Precision Medicine and Diagnostics](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=930692)
 Application deadline: June 1, 2026
-
-
-
-
 
 
 
