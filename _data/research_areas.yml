@@ -4,7 +4,7 @@
   url: "/research/tmeanalysis"
   img: "/assets/images/research/cancer_cell_graph.png"
   img_alt: "Composite image of a multispectral histology sample and an overlaid cell graph"
-  description: "We combines state-of-the-art multiplexed immunofluorescence 
+  description: "We combine state-of-the-art multiplexed immunofluorescence 
                 microscopy with the latest techniques in image processing and deep learning to 
                 advance the understanding of how cell interrelations in the tumor microenvironment 
                 affect the disease progression and treatment efficacy. "

@@ -1,6 +1,21 @@
 # Publications
 # More or less bibtex standard
 
+- year: 2026
+  publications:
+
+    - title: "From Cells to Survival: Hierarchical Analysis of Cell Inter-Relations in Multiplex Microscopy for Lung Cancer Prognosis"
+      type: "inproceedings"
+      author: "<b>O. Edgren Schüllerqvist</b>, <b>J. Baumann</b>, <b>J. Lindblad</b>, L. Nordling, A. Mezheyeuski, P. Micke, <b>N. Sladoje</b>"
+      booktitle: "Pattern Recognition (ICPR 2026), Lecture Notes in Computer Science (LNCS)"
+      volume: "16827"
+      number: 
+      pages: 81-91
+      year: 2026
+      doi: 10.1007/978-3-032-31936-4_6
+      arxiv: 2512.08572
+      code: github.com/MIDA-group/HiGINE
+
 - year: 2025
   publications:
 
