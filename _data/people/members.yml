@@ -15,9 +15,14 @@
   title: "PhD Student"
 
 - name: "Jens Baumann"
-  pic: "/assets/images/people/olle.jpg"
+  pic: "/assets/images/people/jens.jpg"
   url: "https://www.uu.se/kontakt-och-organisation/personal?query=N23-99"
   title: "PhD Student"
+
+- name: "Junming Ma"
+  pic: "/assets/images/people/junming.jpeg"
+  title: "Research intern"
+
 
 # # Fill in more people
 # - name: "Insert name"
